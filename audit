@@ -2,12 +2,59 @@ ANALYZE THE AUDIT SCOPE, GOALS and RISK ASSESSMENT - Botium Toys:
 
 After you review the audit scope, goals, and risk assessment, consider the following questions:
 
-    What are the biggest risks to the organization?
 
-    Which controls are most essential to implement immediately versus in the future?
+1.    What are the biggest risks to the organization? 
+- Loss of assets 
+- Sanctions, fines and financial loss
 
-    Which compliance regulations does Botium Toys need to adhere to, to ensure the company keeps customer and vendor data safe, avoids fines, etc.? 
+
+2.    Which controls are most essential to implement immediately versus in the future?
+-  Immediatly: 
+*Implementattion of firewalls to secure the networks 
+*Identity and access management controls : strong passwords; multi-factor authentication, 
+*SIEM tools to monitor logs and risks 
+*Backup tools/capacities for business continuity 
+
+- In the future:
+*Controls for incident response
+*Defense in depth with multiple other controls 
+*Separation of duties controls
+
+3.    Which compliance regulations does Botium Toys need to adhere to, to ensure the company keeps customer and vendor data safe, avoids fines, etc.? 
+- Payment Card Industry Data Security Standard (PCI DSS)
+- General Data Protection Regulation (GDPR) 
+- Center for Internet Security (CIS®) - WRONG ! Shoud be...
+                                                - System and Organizations Controls (SOC type 1, SOC type 2)
+The SOC1 and SOC2 are a series of reports that focus on an organization's user
+access policies at different organizational levels. They are used to assess an
+organization’s financial compliance and levels of risk. They also cover
+confidentiality, privacy, integrity, availability, security, and overall data safety.
+Control failures in these areas can lead to fraud.
 
 Sources: 
 https://docs.google.com/document/d/1bA-J96jzDVFi9XjNOKd4w2bCR7X7ZTs3_szPElOkyFM/template/preview 
 https://docs.google.com/document/d/1rdjLtrTQD7c8K3cUeKnrhyq3DzXpKNL9vdHI1T9Vu80/template/preview?resourcekey=0--N8L-3p4Hel22vaxVLjIOA
+
+
+-------
+What to Include in Your Response
+
+Be sure to address the following elements in your completed activity:
+
+Controls assessment
+
+    * All listed assets are accounted for in the controls selected
+
+    * Appropriate administrative, technical, and physical controls are selected (marked with an X)
+
+    * The priority level for each control selected is noted, based on the need for immediate or future implementation
+
+Compliance checklist
+
+    * The compliance regulations and standards that Botium Toys needs to adhere to are selected (i.e., related to conducting business in the E.U., accepting online payments, user permission policies)
+
+    * The need for each regulation and standard selected is explained
+
+
+Controls assessment exemplar : https://docs.google.com/document/d/1A4Zutk-dw71Vq-aR-vKu7BaKeZSjSp_FC5OYRFAz5Zk/template/preview?resourcekey=0-xS6eMAb-h0QilpkYFzP-GQ
+Compliance checklist exemplar : https://docs.google.com/document/d/15e7OA0qWg4g9KUqaqwXZBEGMdcxPJLuD72xk1LK813k/template/preview 
