@@ -133,9 +133,9 @@ to develop appropriate policies and procedures. Having disaster recovery plans a
 backups is also critical because they support business continuity in the event of an
 incident. Integrating an IDS and AV software into the current systems will support our
 ability to identify and mitigate potential risks, and could help with intrusion detection,
-since existing legacy systems require manual monitoring and intervention. To further
+since existing legacy systems require manual monitoring and intervention. 
 
-secure assets housed at Botium Toys’ single physical location, locks and CCTV should
+To further secure assets housed at Botium Toys’ single physical location, locks and CCTV should
 be used to secure physical assets (including equipment) and to monitor and
 investigate potential threats. While not necessary immediately, using encryption and
 having a time-controlled safe, adequate lighting, locking cabinets, fire detection and
