@@ -58,8 +58,8 @@ Compliance checklist
     * The need for each regulation and standard selected is explained
 
 
-Controls assessment exemplar : https://docs.google.com/document/d/1A4Zutk-dw71Vq-aR-vKu7BaKeZSjSp_FC5OYRFAz5Zk/template/preview?resourcekey=0-xS6eMAb-h0QilpkYFzP-GQ
-Compliance checklist exemplar : https://docs.google.com/document/d/15e7OA0qWg4g9KUqaqwXZBEGMdcxPJLuD72xk1LK813k/template/preview 
+*Controls assessment exemplar : https://docs.google.com/document/d/1A4Zutk-dw71Vq-aR-vKu7BaKeZSjSp_FC5OYRFAz5Zk/template/preview?resourcekey=0-xS6eMAb-h0QilpkYFzP-GQ
+*Compliance checklist exemplar : https://docs.google.com/document/d/15e7OA0qWg4g9KUqaqwXZBEGMdcxPJLuD72xk1LK813k/template/preview 
 
 
 PART 2 
@@ -98,6 +98,13 @@ Antivirus (AV) software
 Manual monitoring, maintenance, and intervention 
 Lock of physical assets 
 
+***I FORGOT Policies for COMPLIANCE REGULATIONS: 
+ - Policies need to be developed and implemented to meet PCI DSS and GDPR
+compliance requirements.
+ - Policies need to be developed and implemented to align to SOC1 and SOC2
+guidance related to user access policies and overall data safety.
+
+
     What were the findings (i.e., What controls and/or policies that need to be addressed in the future)?
 - For the future: 
 Account management policies 
@@ -106,6 +113,31 @@ Password management system
 And other physical controls
 
     How can you summarize your recommendations clearly and concisely to stakeholders?
-- My recommendation is to implement the necessary controls and policies as sooon as possible, and to hire skilled individual to help achieve the security goals of the organization.
-- The security posture or the organiization needs to be strenghten with no delay to avoid sanctions, fines, loss of private data and, therefore, also bad reputation.
+- My recommendation is to implement the necessary controls and policies as soon as possible, and to hire skilled individual to help achieve the security goals of the organization.
+- The security posture or the organiization needs to be strenghten with no delay to avoid sanctions, fines, loss/theft of private data and, therefore, also bad reputation.
 
+IMPORTANT NOTE: 
+Findings and critical findigs need to be listed but also EXPLAINED to the stakeholders.
+
+
+*Stakeholder memorandum exemplar : https://docs.google.com/document/d/14Fov305DTfuMAbldTbQdrN7bNwfBrqrE6J6DuSgaQbE/template/preview
+
+
+BETTER Summary/Recommendations: 
+It is recommended that critical findings relating to
+compliance with PCI DSS and GDPR be promptly addressed since Botium Toys accepts
+online payments from customers worldwide, including the E.U. Additionally, since one
+of the goals of the audit is to adapt to the concept of least permissions, SOC1 and
+SOC2 guidance related to user access policies and overall data safety should be used
+to develop appropriate policies and procedures. Having disaster recovery plans and
+backups is also critical because they support business continuity in the event of an
+incident. Integrating an IDS and AV software into the current systems will support our
+ability to identify and mitigate potential risks, and could help with intrusion detection,
+since existing legacy systems require manual monitoring and intervention. To further
+
+secure assets housed at Botium Toys’ single physical location, locks and CCTV should
+be used to secure physical assets (including equipment) and to monitor and
+investigate potential threats. While not necessary immediately, using encryption and
+having a time-controlled safe, adequate lighting, locking cabinets, fire detection and
+prevention systems, and signage indicating alarm service provider will further improve
+Botium Toys’ security posture.
