@@ -1,5 +1,7 @@
 ANALYZE THE AUDIT SCOPE, GOALS and RISK ASSESSMENT - Botium Toys:
 
+PART 1
+
 After you review the audit scope, goals, and risk assessment, consider the following questions:
 
 
@@ -58,3 +60,52 @@ Compliance checklist
 
 Controls assessment exemplar : https://docs.google.com/document/d/1A4Zutk-dw71Vq-aR-vKu7BaKeZSjSp_FC5OYRFAz5Zk/template/preview?resourcekey=0-xS6eMAb-h0QilpkYFzP-GQ
 Compliance checklist exemplar : https://docs.google.com/document/d/15e7OA0qWg4g9KUqaqwXZBEGMdcxPJLuD72xk1LK813k/template/preview 
+
+
+PART 2 
+Communication 
+
+ANALYZE AUDIT RESULTS 
+
+Review the controls assessment and compliance checklist you completed in “Conduct a security audit, part 1” and consider the following, before moving on to the next step:
+
+    What were the audit scope and goals? 
+- THe scope of the internal audit was the assessment of current user permissions set, current implemented controls, current procedures and protocols for the following systems: accounting,
+end point detection, firewall, intrusion detection system, Security Information
+and Event Management (SIEM) tool. I also needed to ensure that current user permissions, controls, procedures, and protocols in place
+align with necessary compliance requirement, and that the technology is accounted for. Both hardware and system access.
+- The goals were: 
+● To adhere to the National Institute of Standards and Technology Cybersecurity
+Framework (NIST CSF)
+● Establish a better process for their systems to ensure they are compliant
+● Fortify system controls
+● Implement the concept of least permissions when it comes to user credential
+management
+● Establish their policies and procedures, which includes their playbooks
+● Ensure they are meeting compliance requirements
+
+
+    What were the critical findings of the audit that need to be addressed immediately (i.e., What controls and/or policies need to be implemented immediately)?
+- The audit showed that adressing some controls is critical, like: 
+Least Privilege 
+Disaster recovery plans 
+Password policies 
+Access control policies 
+Separation of duties 
+Intrusion Detection System (IDS) 
+Backups 
+Antivirus (AV) software 
+Manual monitoring, maintenance, and intervention 
+Lock of physical assets 
+
+    What were the findings (i.e., What controls and/or policies that need to be addressed in the future)?
+- For the future: 
+Account management policies 
+Encryption 
+Password management system 
+And other physical controls
+
+    How can you summarize your recommendations clearly and concisely to stakeholders?
+- My recommendation is to implement the necessary controls and policies as sooon as possible, and to hire skilled individual to help achieve the security goals of the organization.
+- The security posture or the organiization needs to be strenghten with no delay to avoid sanctions, fines, loss of private data and, therefore, also bad reputation.
+
